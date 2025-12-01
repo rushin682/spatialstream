@@ -39,14 +39,14 @@ pip install git+https://github.com/rushin682/spatialstream.git@main
 See the [changelog][].
 
 ## Contact
-
+<!--
 For questions and help requests, you can reach out in the [scverse discourse][].
 If you found a bug, please use the [issue tracker][].
-
+-->
 ## Citation
 
 > t.b.a
-
+<!--
 [uv]: https://github.com/astral-sh/uv
 [scverse discourse]: https://discourse.scverse.org/
 [issue tracker]: https://github.com/rushin682/spatialstream/issues
@@ -55,3 +55,4 @@ If you found a bug, please use the [issue tracker][].
 [changelog]: https://spatialstream.readthedocs.io/en/latest/changelog.html
 [api documentation]: https://spatialstream.readthedocs.io/en/latest/api.html
 [pypi]: https://pypi.org/project/spatialstream
+-->
