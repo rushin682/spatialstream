@@ -25,7 +25,12 @@ classifiers = [
 dependencies = [
   "anndata",
   # for debug logging (referenced from the issue template)
+  "ipykernel>=7.1",
   "session-info2",
+  "spatialdata[torch]>=0.6.1",
+  "spatialdata-io>=0.5.1",
+  "spatialdata-plot>=0.2.13",
+  "torchvision>=0.24.1",
 ]
 optional-dependencies.dev = [
   "pre-commit",
